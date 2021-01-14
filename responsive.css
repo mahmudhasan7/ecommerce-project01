@@ -1,0 +1,26 @@
+/*header responsive*/
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 320px) {
+    .card{
+      
+        margin-left: 0em;
+    }
+
+ 
+ }
+@media (min-width: 575.98px) {
+    .card{
+      
+        margin-left: 8em;
+    }
+
+ 
+ }
+ @media (min-width: 768px) { 
+
+
+
+    
+ }
+ 
+

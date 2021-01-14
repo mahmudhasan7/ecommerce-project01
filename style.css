@@ -1,0 +1,121 @@
+/*font*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+
+/*header css*/
+ul.navbar-nav {
+    margin-left: 32em;
+}
+ul li {
+    padding: .7em;
+
+}.navbar ul li a {
+    font-size: 1em;
+    color: #000;
+    font-weight: 700;
+}
+
+.header-logo img {
+    width: 23em;
+}
+
+
+
+/*banner css*/
+.banner-content {
+    margin-left: 2em;
+}
+
+.banner-img img {
+    width: 75%;
+}
+
+
+.banner-content h1 {
+    margin-top: 1em;
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+
+}
+.banner-content button {
+    background: #2A1E59;
+    color: #fff;
+    padding: 0.7em;
+}
+.header-bg {
+    background: #FFFFF4;
+}
+
+
+/*detail area css*/
+
+.detailes-area {
+    margin-top: 120px;
+    margin-bottom: 80px;
+}
+
+.detail-icon img {
+    width: 45%;
+}
+
+.detail-content p {
+    font-size: 19px;
+    margin-left: -3em;
+}
+
+.detail-content h1 {
+    margin-left: -2.55em;
+    font-size: 24px;
+}
+.detail-img {
+    width: 80%;
+    margin-top: 8em;
+}
+
+
+/*product-list*/
+.product-area {
+    margin-bottom: 6em;
+}
+.product-area h1 {
+    padding-bottom: 2em;
+    font-family: Bebas Neue;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    margin-left: 3em;
+}
+.card img {
+    background: #f1f1f1;
+}
+.product-price button {
+    background-color: #2A1E59!important;
+    color: #fff;
+    margin-left: 4em;
+    border-radius: 8px;
+    height: 45px;
+    width: 133px;
+}
+
+.product-price h3 {
+    color: #76C27E;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+
+
+}
+.card-text{
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.btn:hover {
+    color: #76C27E;
+}
